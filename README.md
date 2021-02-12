@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Timothy-Merchant
+- 👀 I’m interested in web development and game development
+- 🌱 I’m currently learning Javascript, PHP, Laravel, React, Redux, Ruby & C#
+- 💞️ I’m looking to collaborate on anything!
+- 📫 Contact: ryalin1286@gmail.com
